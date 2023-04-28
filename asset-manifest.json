@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Cards-War/static/css/main.d59c83ee.css",
+    "main.js": "/Cards-War/static/js/main.25b7c90d.js",
+    "static/js/787.2ffff89e.chunk.js": "/Cards-War/static/js/787.2ffff89e.chunk.js",
+    "static/media/cards.jpeg": "/Cards-War/static/media/cards.9ea0b0df771d83d17a4b.jpeg",
+    "static/media/background.webp": "/Cards-War/static/media/background.e90e21a2435739abb9e8.webp",
+    "index.html": "/Cards-War/index.html",
+    "main.d59c83ee.css.map": "/Cards-War/static/css/main.d59c83ee.css.map",
+    "main.25b7c90d.js.map": "/Cards-War/static/js/main.25b7c90d.js.map",
+    "787.2ffff89e.chunk.js.map": "/Cards-War/static/js/787.2ffff89e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59c83ee.css",
+    "static/js/main.25b7c90d.js"
+  ]
+}
